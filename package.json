@@ -1,0 +1,8 @@
+{
+  "name": "redux-todonemvc",
+  "version": "0.0.0",
+  "description": "todone app with redux",
+  "main": "index.js",
+  "author": "Riza Fahmi",
+  "license": "MIT"
+}
