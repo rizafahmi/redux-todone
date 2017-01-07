@@ -13,5 +13,5 @@ const todone = List.of(
 )
 
 ReactDOM.render(
-  <ToDoneApp todos={todone} />, document.getElementById('app')
+  <ToDoneApp todone={todone} />, document.getElementById('app')
 )
