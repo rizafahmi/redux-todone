@@ -4,5 +4,9 @@
   "description": "todone app with redux",
   "main": "index.js",
   "author": "Riza Fahmi",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
 }
