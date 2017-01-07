@@ -1,5 +1,7 @@
 import React from 'react'
 
+import TextInput from './TextInput'
+
 export default class ToDoneItem extends React.Component {
   render () {
     return (
@@ -11,6 +13,7 @@ export default class ToDoneItem extends React.Component {
           </label>
           <button className='destroy'></button>
         </div>
+        <TextInput />
       </li>
     )
   }
